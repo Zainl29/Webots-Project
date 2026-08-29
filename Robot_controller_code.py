@@ -1,4 +1,4 @@
-"""coursework_2 controller."""
+"""robot controller."""
 
 from controller import Robot
 
