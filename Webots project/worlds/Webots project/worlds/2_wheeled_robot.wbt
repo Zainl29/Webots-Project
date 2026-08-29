@@ -506,7 +506,7 @@ Robot {
   physics Physics {
     mass 10
   }
-  controller "coursework_2"
+  controller "Robot_controller_code"
 }
 PlasticCrate {
   translation -0.26626 2.87 1.77636e-15
