@@ -10,3 +10,4 @@ How to run:
 2. Open the Webots Platform
 3. Open the project in the Application & run the simulation
 
+<img width="1080" height="2408" alt="Image" src="https://github.com/user-attachments/assets/0e0768a8-a49e-48d2-9665-9d21eb373773" />
